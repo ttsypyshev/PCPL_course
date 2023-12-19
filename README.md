@@ -30,7 +30,7 @@
 1. Клонируйте репозиторий на свой локальный компьютер:
 
 	```bash
-	git clone https://github.com/<your-username>/PCLC_course.git
+	git clone https://github.com/<your-username>/PCLC_course
 	```
 2. Перейдите в соответствующий каталог для доступа к материалам рубежного контроля.
 3. Ознакомьтесь с проектом и отчетом.
